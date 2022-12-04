@@ -1,0 +1,77 @@
+<!Doctype HTML>
+<html>
+	<head>
+	<title>feedback</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<style>		
+			.form-group
+			{
+			height:50px;
+			width:500px;
+			}			
+						 
+			</style>
+		
+	</head>
+	<body>		
+		
+	<div class="container-fluid">
+		<nav class="navbar collapse navbar-collapse">
+			<div class="navbar-header">
+				<img src="img/logo.jpg" style="height:200px; width:1200px; text-align:center;"/>				
+			</div>		
+			<div class="btn-group btn-group-justified">
+			<div class="btn-group">
+				<a href="index.html"><button type="button" class="btn btn-primary btn-lg">Home</button></a>
+			</div>
+			<div class="btn-group">
+				<a href="services.html"><button type="button" class="btn btn-primary btn-lg">Services</button></a>
+			</div>
+			<div class="btn-group">
+			<a href="about.html"><button type="button" class="btn btn-primary btn-lg">About us</button></a>
+			</div> 
+			<div class="btn-group">
+			<a href="feedback.html"><button type="button" class="btn btn-primary btn-lg">Feedback</button></a>
+			</div> 
+			<div class="btn-group">
+			<a href="contact.html"><button type="button" class="btn btn-primary btn-lg">Contact Us</button></a>
+			</div> 
+			</div>								
+		</nav>	
+		</div>
+<!-- part reserved for header -->		
+			<div class="container" id="form" align="center">					
+			<h2>Feedback Form</h2>					
+				<div class="form-group">
+				<label for="usr">Name:</label>
+				<input type="text" class="form-control" id="name" >
+				<span id="nameval" style="color:red"></span>
+				</div>
+				<br/>
+			<div class="form-group">
+				<label for="pwd">Email</label>
+				<input type="text" class="form-control" id="email" >
+				<span id="emailval" style="color:red"></span>
+			</div>
+			<br/>			
+			<br/>
+			<div class="form-group">
+				<label for="comment">Comment:</label>
+				<textarea class="form-control" rows="5" id="comment" maxlength="500"></textarea>
+				<span id="commentval"  style="color:red"></span>
+				<span id="count"></span>
+			</div><br/><br/><br/><br/></br>
+			<div style="color:red;display:none" id="correct">Please correct the above inputs</div>
+				<button type="button" class="btn btn-primary">Submit your feedback</button>								
+				
+			</div><br/><br/><br/><br/><br/><br/>
+			
+		<!--footer part-->			
+			<footer style="background-color:#282829">				
+					<div align="center"><img src="img/bpg.jpg" width="90" align="center"/><br/><strong style="color:white"> &copy;&nbsp;Body Power Gym</strong> </div>										
+			</footer>
+			
+	</body>
+</html>
