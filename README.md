@@ -25,7 +25,7 @@ Responsive Design
       
 Accessibility Compliance
   
-    All the images have alt tag for better accessibility. 
+    All the images have alt tag for better accessibility. All html tags are properly nested with each other.
     
 Search Engine Optimization Strategy
   
