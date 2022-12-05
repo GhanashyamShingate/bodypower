@@ -6,7 +6,7 @@ Ghanashyam Shingate- I worked on developing feedback.html and about.html pages. 
 
 Sameer Shaligram- I worked on developing index.html and services.html pages. I created home.index page and included image, footer, section, meta and blockquote tags. I created services.html page to show the services provided by fitness centre. In both pages, I created transitions for images. 
 
-Design Principles- I worked on creating contact us page. I created a form using
+Design Principles- I worked on creating contact us page. I created a form using different tags so that it looks good. Also I created a page named computebmi.html which will be opened when you click on 'computebmi' button on home page.
 
 Proximity
   
