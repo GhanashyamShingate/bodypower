@@ -2,9 +2,11 @@
 
 Full Name: Ghanashyam Shingate, Sameer Shaligram, Amit Miskeen
 
-Ghanashyam Shingate- I worked on developing feedback.html and about.html pages. I created form with 
+Ghanashyam Shingate- I worked on developing feedback.html and about.html pages. For feedback.html, I created form with different inputs from the visitor. I created form container and form attributes. In about.html page, I created page using sections to include information about the website. Also used blockquote for by default margin.
 
-Design Principles-
+Sameer Shaligram- I worked on developing index.html and services.html pages. I created home.index page and included image, footer, section, meta and blockquote tags. I created services.html page to show the services provided by fitness centre. In both pages, I created transitions for images. 
+
+Design Principles- I worked on creating contact us page. I created a form using
 
 Proximity
   
