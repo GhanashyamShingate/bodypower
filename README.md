@@ -31,7 +31,7 @@ Accessibility Compliance
     
 Search Engine Optimization Strategy
   
-    We have used Keywords and content with meta tag for SEO Strategy.
+    We have used keywords and content with meta tag for SEO Strategy.
   
     We have used meta keywords such as gym, health and fitness, gym fitness, gym near me, treadmill, body building, exercise, workout, workout centre near me, cardio, personal trainer, exercise bike, aerobic, fitness studio, abs workout, lifetime fitness, gym equipment, gym trainer, personal fitness, aerobic exercise, world gym, crunches, healthy diet, healthy routine, exercise routine, gym routine, gym time, fitness freak, yoga, yoga classes, yoga fitness, diet plan, eggs diet plan, vegetables diet plan.
     
