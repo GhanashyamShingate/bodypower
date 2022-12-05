@@ -199,13 +199,23 @@
     margin-top: 5%;
   }
 
-  /*services animation*/
+  /*services transition*/
 
   .img-rounded{
     transition: transform 3s ease-in;
   }
 
   .img-rounded:hover{
+    transform: scale(0.5);
+  }
+
+  /*index transition*/
+
+  .img-ind{
+    transition: transform 3s ease-in;
+  }
+
+  .img-ind:hover{
     transform: scale(0.5);
   }
 
